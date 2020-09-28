@@ -1,6 +1,6 @@
 # I-am-Encryption
 
-Colloection of three encryption algorithms namely
+Colloection of three encryption algorithms, namely
 - SHA1 hash algorithm
 - RSA encryption algorithm
 - AES encryption algorithm
@@ -20,5 +20,6 @@ To install the python dependencies from requirements.txt:
 ```python
 pip install -r requirements.txt
 ```
+
 
 
